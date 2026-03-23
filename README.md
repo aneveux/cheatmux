@@ -68,7 +68,7 @@ To use your own cheatsheet, create `~/.config/cheatmux/cheatsheet.md` or set `@c
 
 ### Cheatsheet format
 
-```
+```text
 ## Section Name
 prefix + key    Description
 ```
